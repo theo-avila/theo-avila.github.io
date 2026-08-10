@@ -119,9 +119,9 @@ author:
   location         : "Cambridge, MA"
   email            : 
   links:
-    - label: "tcavila@illinois.edu"
+    - label: "tcavila@mit.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tcavila@illinois.edu"
+      url: "mailto:tcavila@mit.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theo-avila"
