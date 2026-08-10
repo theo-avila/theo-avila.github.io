@@ -116,10 +116,10 @@ author:
   name             : "Theo Avila"
   avatar           : "/assets/bio-photo.jpg"
   bio              : "climate impacts"
-  location         : "Cambridge"
+  location         : "Cambridge, MA"
   email            : 
   links:
-    - label: "Email"
+    - label: "tcavila@illinois.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tcavila@illinois.edu"
     - label: "GitHub"
