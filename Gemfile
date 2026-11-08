@@ -1,2 +1,6 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll", "~> 3.10"
+gem "jekyll-sitemap", "~> 1.4"
+gem "webrick", "~> 1.8"
+gem "kramdown-parser-gfm", "~> 1.1"

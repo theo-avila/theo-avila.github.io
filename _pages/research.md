@@ -1,14 +1,14 @@
 ---
-layout: single
-title: "Research"
+layout: academic
+title: Research
 permalink: /research/
-author_profile: true
+canonical_path: /
+sitemap: false
 ---
-
-**Uncertainty and statistical downscaling**
-
-At the University of Illinois Urbana-Champaign, with [Ryan Sriver](https://rsriver.web.illinois.edu/) and the [Program on Coupled Human and Earth Systems](https://www.pches.psu.edu/), I work on statistical and structural uncertainty in climate impact projections (e.g., fire weather and crop yield projections).
-
-**Sea surface height and climate modes**
-
-At NOAA's Geophysical Fluid Dynamics Laboratory (GFDL), I spent two summers within the [Ocean Division](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/) on machine learning methods to diagnose how large-scale climate modes manifest in sea surface height across observations and ocean or Earth system model output. I also worked on water-mass transformation diagnostics, focusing on surface transformation and its forced response in the Arctic under forced climate model experiments.
+<div class="page-intro">
+  <p class="eyebrow">Climate science</p>
+  <h1>Research<span class="accent">.</span></h1>
+  <p class="page-lead">Climate impacts, uncertainty, and ocean variability.</p>
+  <a href="{{ '/#research' | relative_url }}">Research is also on my home page <span aria-hidden="true">↗</span></a>
+</div>
+<section aria-label="Research areas">{% include research-topics.html %}</section>
