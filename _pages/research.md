@@ -1,14 +1,17 @@
 ---
-layout: academic
-title: Research
+layout: single
+title: "Research"
 permalink: /research/
-canonical_path: /
+author_profile: true
 sitemap: false
 ---
-<div class="page-intro">
-  <p class="eyebrow">Climate science</p>
-  <h1>Research<span class="accent">.</span></h1>
-  <p class="page-lead">Climate impacts, uncertainty, and ocean variability.</p>
-  <a href="{{ '/#research' | relative_url }}">Research is also on my home page <span aria-hidden="true">↗</span></a>
-</div>
-<section aria-label="Research areas">{% include research-topics.html %}</section>
+
+My research overview is also on the [home page]({{ '/#research' | relative_url }}).
+
+## Climate impacts and uncertainty
+
+I work on statistical and structural uncertainty in climate impact projections, including fire weather and crop yields, with [Ryan Sriver](https://rsriver.web.illinois.edu/) at the University of Illinois Urbana-Champaign and the [Program on Coupled Human and Earth Systems](https://www.pches.psu.edu/).
+
+## Ocean variability and climate modes
+
+During two summers at NOAA’s [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/), I used machine learning to study how large-scale climate modes appear in sea surface height across observations and climate models. I also worked on Arctic water-mass transformation and its response to climate forcing.

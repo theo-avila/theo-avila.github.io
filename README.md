@@ -1,25 +1,23 @@
 # Theo Avila’s website
 
-A small Jekyll site for GitHub Pages. Main navigation has **Home** and
-**Publications**; research lives on the home page. The old `/research/` URL
-still works. There is no public repository link or theme credit in the layout.
-This does not change the GitHub repository’s visibility.
+This site uses the standard **Minimal Mistakes** Jekyll theme with the **Air**
+skin. Its original layouts, includes, Sass styles, JavaScript, and footer are
+retained. Pages use the built-in `single` layout and author sidebar.
 
-## Edit content
+## Edit the site
 
-- `index.html`: introduction and home page sections.
-- `_includes/research-topics.html`: research descriptions (shared with the old research URL).
-- `_data/publications.yml`: papers, authors, years, DOI links, and preparation status.
-  Mark a paper `featured: true` to show it on the home page.
-- `_config.yml`: name, contact email, Google Scholar URL, and optional portrait.
-- `_data/navigation.yml`: navigation.
-- `assets/css/academic.css`: colors, typography, and responsive layout.
-- `_layouts/academic.html`: shared page shell and footer.
+- `index.md`: home page introduction and research overview.
+- `_pages/publications.md`: publications, written in ordinary Markdown.
+- `_pages/research.md`: the older research address, retained for existing links.
+- `_data/navigation.yml`: Home and Publications navigation links.
+- `_config.yml`: site title, author biography, email, Scholar link, and theme skin.
 
-No portrait is required. To add one, put your image in `assets/` and set
-`portrait: /assets/your-photo.jpg` in `_config.yml`.
+The `author.avatar` setting is blank, so no photo or placeholder appears.
+To add a photo, place it in `assets/` and set that setting to its path.
+The GitHub profile link is omitted from the author sidebar. This does not change
+the repository’s visibility.
 
-## Preview locally
+## Preview and build
 
 With Ruby 3.3 and Bundler installed:
 
@@ -28,26 +26,18 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Open `http://localhost:4000`. Restart the server after editing `_config.yml`.
+Open `http://localhost:4000`. Restart the server after changing `_config.yml`.
 
-## Build
+To build without serving:
 
 ```sh
 JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter
 ```
 
-Output goes into `_site/` (ignored by Git). The GitHub Actions build checks the
-site on pushes and pull requests; it does not deploy it. For the existing
-GitHub Pages site, preserve its publishing settings. If using branch-based
-publishing, use `master` and `/ (root)`. Changes become public when pushed to
-the configured publishing branch.
+The build workflow checks pushes and pull requests. Preserve the existing
+GitHub Pages publishing settings; pushing to the configured publishing branch
+updates the public website.
 
-## Content notes
-
-The fire-weather paper’s published status and bibliographic details were checked
-against the [University of Illinois publication record](https://experts.illinois.edu/en/publications/downscaled-cmip5-projections-of-physical-fire-risk-understate-his/).
-The maize manuscript retains the previous site’s “in preparation” status.
-
-Unused Minimal Mistakes source files are retained for reference and licensing;
-the website uses the independent `academic` layout. Theme demos, tooling, and
-unused assets are excluded from the generated site. The original `LICENSE` is retained.
+Theme documentation is included in `docs/` and available at
+[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+The original theme license is retained in `LICENSE`.

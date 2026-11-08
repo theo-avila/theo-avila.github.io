@@ -1,8 +1,0 @@
-{% assign paper = include.paper %}
-<article class="publication">
-  {% if paper.year %}<p class="paper-label">{{ paper.year }}{% if paper.journal %} · {{ paper.journal | escape }}{% endif %}</p>{% endif %}
-  <h3>{% if paper.doi %}<a href="https://doi.org/{{ paper.doi }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
-  <div class="authors">{{ paper.authors | markdownify }}</div>
-  {% if paper.journal %}<p class="citation"><em>{{ paper.journal | escape }}</em>{% if paper.citation %}, {{ paper.citation | escape }}{% endif %}.</p>{% endif %}
-  {% if paper.doi %}<a class="paper-link" href="https://doi.org/{{ paper.doi }}">Read paper <span aria-hidden="true">↗</span><span class="doi"> DOI: {{ paper.doi }}</span></a>{% endif %}
-</article>
