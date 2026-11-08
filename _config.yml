@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Theo Avila"
-  avatar           : # Add your own photo path here when ready.
+  avatar           : "/assets/bio-photo.jpg"
   bio              : "Climate impacts and uncertainty"
   location         : "Cambridge, MA"
   email            :

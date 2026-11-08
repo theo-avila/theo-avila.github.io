@@ -5,5 +5,13 @@ search: false
 
 @charset "utf-8";
 
+// Increase the theme's native type scale without replacing its typography.
+$doc-font-size: 18px;
+$doc-font-size-medium: 20px;
+$doc-font-size-large: 20px;
+$doc-font-size-x-large: 20px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@import "site"; // Small, site-specific adjustments to the standard theme.

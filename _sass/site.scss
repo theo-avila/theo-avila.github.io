@@ -1,0 +1,44 @@
+// Keep Minimal Mistakes layouts and components; adjust readability and images.
+.page__content {
+  line-height: 1.65;
+}
+
+// Use the existing landscape photo as a shallow banner. Keep the skyline visible.
+.page__hero-image {
+  height: clamp(190px, 28vw, 340px);
+  object-fit: cover;
+  object-position: center 90%;
+}
+
+// A visible, consistently round profile photo, using the original image file.
+.author__avatar {
+  width: 76px;
+
+  img {
+    width: 76px;
+    max-width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center 30%;
+  }
+}
+
+.sidebar {
+  opacity: 1;
+
+  p,
+  li {
+    font-size: 0.85em;
+  }
+}
+
+@include breakpoint($large) {
+  .author__avatar {
+    width: auto;
+
+    img {
+      width: 160px;
+      max-width: 100%;
+    }
+  }
+}

@@ -3,6 +3,9 @@ layout: single
 title: "About"
 permalink: /
 author_profile: true
+header:
+  image: /assets/publications.jpg
+  image_description: "Sunlight breaking through clouds above a city skyline."
 excerpt: "Theo Avila’s research on climate impacts, uncertainty, and ocean variability."
 ---
 
@@ -19,3 +22,11 @@ I work on statistical and structural uncertainty in climate impact projections, 
 ### Ocean variability and climate modes
 
 During two summers at NOAA’s [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/), I used machine learning to study how large-scale climate modes appear in sea surface height across observations and climate models. I also worked on Arctic water-mass transformation and its response to climate forcing.
+
+## Selected publication
+
+**[Downscaled CMIP5 projections of physical fire risk understate historical trends](https://doi.org/10.1088/1748-9326/ade892)**
+
+*Environmental Research Letters*, 2025.
+
+[All publications]({{ '/publications/' | relative_url }})

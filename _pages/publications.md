@@ -3,6 +3,9 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  image: /assets/publications.jpg
+  image_description: "Sunlight breaking through clouds above a city skyline."
 excerpt: "Publications and work in preparation by Theo Avila."
 ---
 
