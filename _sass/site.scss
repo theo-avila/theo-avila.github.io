@@ -1,4 +1,10 @@
 // Keep Minimal Mistakes layouts and components; adjust readability and images.
+// Give Home and Publications the same size and weight as section headings.
+.greedy-nav .masthead__menu-item a {
+  font-size: $h-size-2;
+  font-weight: 700;
+  line-height: 1.2;
+}
 .page__content {
   line-height: 1.65;
 }

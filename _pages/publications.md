@@ -6,7 +6,7 @@ author_profile: true
 header:
   image: /assets/publications.jpg
   image_description: "Sunlight breaking through clouds above a city skyline."
-excerpt: "Publications and work in preparation by Theo Avila."
+excerpt: "Publications by Theo C. Avila."
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=lwAh46AAAAAJ&hl=en)
@@ -17,12 +17,16 @@ excerpt: "Publications and work in preparation by Theo Avila."
 
 **[Downscaled CMIP5 projections of physical fire risk understate historical trends](https://doi.org/10.1088/1748-9326/ade892)**
 
-**Theo C. Avila**, David C. Lafferty, Madeline Stover, Spencer Guerrero, Charumeghana Samantula, Ian Sue Wing, and Ryan L. Sriver. *Environmental Research Letters*, **20**(8), 084025.
+**Avila, T. C.**, Lafferty, D. C., Stover, M., Guerrero, S., Samantula, C., Sue Wing, I., Sriver, R. L. (2025). *Environmental Research Letters*, **20**(8), 084025.
 
 [Read paper](https://doi.org/10.1088/1748-9326/ade892)
 
-## In preparation
+## In review
 
 **Uncertainty quantification of projected maize yield shocks under compound soil moisture–temperature extremes**
 
-**Avila, T. C.**, Lafferty, D. C., Alam, T., and Sriver, R. L.
+**Avila, T. C.**, Lafferty, D. C., Alam, T., Sriver, R. L. (in review).
+
+**Observational constraints on future soil moisture projections using a reduced complexity hydrologic model (pyWBM)**
+
+Alam, T., Lafferty, D. C., **Avila, T. C.**, Ford, T., Zuidema, S., Sriver, R. L. (in review).

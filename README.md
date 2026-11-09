@@ -10,10 +10,11 @@ overrides improve text size and image presentation without replacing the theme.
 - `index.md`: home page introduction and research overview.
 - `_pages/publications.md`: publications, written in ordinary Markdown.
 - `_pages/research.md`: the older research address, retained for existing links.
+- `_includes/research-overview.md`: research text shared by the home and research pages.
 - `_data/navigation.yml`: Home and Publications navigation links.
 - `_config.yml`: site title, author biography, portrait, email, Scholar link, and theme skin.
 - `assets/css/main.scss`: the theme’s font-size settings (18px mobile, 20px desktop).
-- `_sass/site.scss`: line spacing, banner height, and portrait sizing.
+- `_sass/site.scss`: navigation heading size, line spacing, banner height, and portrait sizing.
 
 The portrait is the existing `assets/bio-photo.jpg`, set through `author.avatar`
 in `_config.yml`. The home and publications pages use the existing

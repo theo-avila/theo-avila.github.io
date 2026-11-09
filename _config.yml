@@ -21,7 +21,7 @@ title                    : "Theo Avila"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Theo Avila"
-description              : "Climate impacts, uncertainty, and ocean variability."
+description              : "Theo C. Avila — education, research, and publications."
 url                      : "https://theo-avila.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Theo Avila"
   avatar           : "/assets/bio-photo.jpg"
-  bio              : "Climate impacts and uncertainty"
+  bio              : "Earth, Atmospheric, and Planetary Sciences"
   location         : "Cambridge, MA"
   email            :
   links:
