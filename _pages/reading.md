@@ -9,7 +9,7 @@ header:
 excerpt: "Papers, reviews, and textbooks I have found insightful in my studies and research."
 ---
 
-This is a non-comprehensive list of journal papers, reviews, and textbooks that I have found insightful or interesting in my studies and research.
+This is a selection of journal papers, reviews, and textbooks that I have found insightful, interesting, or well written. They span a range of topics and are not necessarily related to my current research.
 
 Mitchell, J. L., and Lora, J. M. (2016). [The Climate of Titan](https://doi.org/10.1146/annurev-earth-060115-012428). *Annual Review of Earth and Planetary Sciences*, **44**, 353–380.
 
