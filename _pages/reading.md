@@ -11,6 +11,6 @@ excerpt: "Papers, reviews, and textbooks I have found insightful in my studies a
 
 This is a non-comprehensive list of journal papers, reviews, and textbooks that I have found insightful or interesting in my studies and research.
 
-- Mitchell, J. L., and Lora, J. M. (2016). [The Climate of Titan](https://doi.org/10.1146/annurev-earth-060115-012428). *Annual Review of Earth and Planetary Sciences*, **44**, 353–380.
+Mitchell, J. L., and Lora, J. M. (2016). [The Climate of Titan](https://doi.org/10.1146/annurev-earth-060115-012428). *Annual Review of Earth and Planetary Sciences*, **44**, 353–380.
 
-- Bonan, D. B., Thompson, A. F., Schneider, T., Zanna, L., Armour, K. C., and Sun, S. (2025). [Observational constraints imply limited future Atlantic meridional overturning circulation weakening](https://doi.org/10.1038/s41561-025-01709-0). *Nature Geoscience*, **18**, 479–487.
+Bonan, D. B., Thompson, A. F., Schneider, T., Zanna, L., Armour, K. C., and Sun, S. (2025). [Observational constraints imply limited future Atlantic meridional overturning circulation weakening](https://doi.org/10.1038/s41561-025-01709-0). *Nature Geoscience*, **18**, 479–487.

@@ -9,7 +9,7 @@ overrides improve text size and image presentation without replacing the theme.
 
 - `index.md`: home page introduction, research interests, and background.
 - `_pages/publications.md`: publications, written in ordinary Markdown.
-- `_pages/reading.md`: selected reading, with linked citations in a Markdown list.
+- `_pages/reading.md`: selected reading, with each linked citation in its own paragraph.
 - `_pages/research.md`: the older research address, retained for existing links.
 - `_includes/research-overview.md`: earlier research descriptions retained at the old research address.
 - `_data/navigation.yml`: Home, Publications, and Selected Reading navigation links.
