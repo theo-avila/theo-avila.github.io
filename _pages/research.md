@@ -6,6 +6,6 @@ author_profile: true
 sitemap: false
 ---
 
-My research overview is also on the [home page]({{ '/#research' | relative_url }}).
+For my current work and interests, visit the [home page]({{ '/' | relative_url }}).
 
 {% include research-overview.md %}
