@@ -22,8 +22,7 @@ in `_config.yml`. The three main pages use the existing
 `assets/publications.jpg` as their top banner. To replace the banner, change
 `header.image` and its `header.image_description` in those pages. The original
 image files are unchanged; CSS controls their displayed crop.
-The GitHub profile link is omitted from the author sidebar. This does not change
-the repository’s visibility.
+The author sidebar includes email, Google Scholar, GitHub, LinkedIn, and ORCID profile links.
 
 ## Preview and build
 
