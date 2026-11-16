@@ -9,8 +9,6 @@ header:
 excerpt: "Publications by Theo C. Avila."
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=lwAh46AAAAAJ&hl=en)
-
 ## Published
 
 **Avila, T. C.**, Lafferty, D. C., Stover, M., Guerrero, S., Samantula, C., Sue Wing, I., & Sriver, R. L. (2025). Downscaled CMIP5 projections of physical fire risk understate historical trends. *Environmental Research Letters, 20*(8), 084025. <https://doi.org/10.1088/1748-9326/ade892>
