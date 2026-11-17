@@ -15,6 +15,6 @@ excerpt: "Publications by Theo C. Avila."
 
 ## In review
 
-**Avila, T. C.**, Lafferty, D. C., Alam, T., & Sriver, R. L. (in review). *Uncertainty quantification of projected maize yield shocks under compound soil moisture–temperature extremes*.
+**Avila, T. C.**, Lafferty, D. C., Alam, T., & Sriver, R. L. (in review). *Compound temperature and soil-moisture extremes shape U.S. corn yield variability*.
 
-Alam, T., Lafferty, D. C., **Avila, T. C.**, Ford, T., Zuidema, S., & Sriver, R. L. (in review). *Observational constraints on future soil moisture projections using a reduced complexity hydrologic model (pyWBM)*.
+Alam, T., Lafferty, D. C., **Avila, T. C.**, Ford, T., Zuidema, S., & Sriver, R. L. (in review). *Using In Situ Soil Moisture Observations Influences Hydrologic Parameter Estimates and Future Soil Moisture Projections*.
